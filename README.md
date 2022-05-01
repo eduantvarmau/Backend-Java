@@ -5,9 +5,9 @@ En esta practica se modelarón 5 personajes de la saga Harry Potter definidos po
 
 ### Entregables:
 
--Programa
+- [Programa](./practicaHarry/Harry.png)
 
--Diagrama
+- [Diagrama](./practicaHarry/DiagramaHarry.png)
 
 ---
 
@@ -16,9 +16,9 @@ En esta practica se modelarón 6 versiones de Mona The Octocat que extienden de 
 
 ### Entregables:
 
--Programa
+- [Programa](./practicaMona/Mona.png)
 
--Diagrama
+- [Diagrama](./practicaMona/MonaDiagrama.png)
 
 ---
 
@@ -31,9 +31,9 @@ Se uso el framework `imonsh` propiedad de [Fernanda Ochoa](https://github.com/Fe
 
 ### Entregables:
 
--Programa
+- [Programa](./practicaMultiverse/Multiverse.png)
 
--Diagrama
+- [Diagrama](./practicaMultiverse/MultiverseDiagrama.png)
 
 ---
 
@@ -48,9 +48,9 @@ Se usarón imagenes que son propiedad de `Riot Games` por lo cual no estaran inc
 
 ### Entregables:
 
--Programa
+- [Programa](./practicaComic/Comic.png)
 
--Diagrama
+- [Diagrama](./practicaComic/ComicDiagrama.png)
 ---
 
 ## Práctica 5 - Multihilos
@@ -62,8 +62,8 @@ Se uso el framework `imonsh` propiedad de [Fernanda Ochoa](https://github.com/Fe
 
 ### Entregables:
 
--Programa
+- [Programa](./practicaLineUp/LineUp.png)
 
--Diagrama
+- [Diagrama](./practicaLineUp/LineUpDiagrama.png)
 
 
